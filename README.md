@@ -17,7 +17,9 @@ It demonstrates data cleaning, category mapping, anomaly detection, dashboarding
 
 ## 📊 Files Included
 - `FMCG_Project.xlsx` → dataset with Products_Master, RawSales, and CategoryMap.  
-- `FMCG_Project.xlsm` → macro-enabled version (with VBA automation).   
+- `FMCG_Project.xlsm` → macro-enabled version (with VBA automation).
+- `VBA code.bas` →
+- `Dashboard` →
 
 ---
 
