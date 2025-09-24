@@ -15,11 +15,11 @@ It demonstrates data cleaning, category mapping, anomaly detection, dashboarding
 
 ---
 
-## 📊 Files Included
-- `FMCG_Project.xlsx` → dataset with Products_Master, RawSales, and CategoryMap. (FMCG_Project_latest.xlsx) 
-- `FMCG_Project.xlsm` → macro-enabled version (with VBA automation) (FMCG_Project - VBA.xlsm)
-- `VBA code.bas` → (VBA code.bas)
-- `Dashboard` → (Dashboard_Report_20250924.pdf)
+## 📂 Project Files
+- [FMCG_Project.xlsx](FMCG_Project_latest.xlsx)  
+- [FMCG_Project.xlsm](FMCG_Project_VBA.xlsm)  
+- [VBA code.bas](VBA_code.bas)
+- [Dashboard.pdf](Dashboard_Report_20250924.pdf)
 
 ---
 
