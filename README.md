@@ -29,7 +29,7 @@ It demonstrates data cleaning, category mapping, anomaly detection, dashboarding
 ---
 
 ## 📷 Screenshots (Recommended)
-(Add screenshots of your Dashboard, KPI cards, and Anomalies sheet here once uploaded.)
+
 <img width="1066" height="596" alt="image" src="https://github.com/user-attachments/assets/4f6224db-45e3-48e2-8b6e-2ad1435b1f65" />
 
 
